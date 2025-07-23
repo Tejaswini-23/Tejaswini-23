@@ -1,6 +1,6 @@
 # 💫 Tejaswini Garaka  
 *Computer Science Student | Web Developer | AI Enthusiast*  
-📄 [View My Resume](https://your-resume-link.com) <!-- Replace with actual resume URL -->
+📄 [View My Resume](https://drive.google.com/file/d/1iHcUwCcwlMBdIpLsxtkLKspMW9u81JG5/view?usp=sharing) <!-- Replace with actual resume URL -->
 
 ---
 
